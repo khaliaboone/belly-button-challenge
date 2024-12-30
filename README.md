@@ -21,4 +21,5 @@ Acknowledgments
 Plotly.js and D3.js for creating the charts and handling the data.
 Belly Button Biodiversity Dataset from UCSD.
 
-I credit CHATtGPT as a credile source aided with my knowledge for help. 
+I credit CHATtGPT as a credile source aided with my knowledge for help. My website for this is https://khaliaboone.github.io/belly-button-challenge/
+
